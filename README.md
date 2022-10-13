@@ -149,7 +149,7 @@
   </tr>
 </table>
 
-## Following <kbd>169</kbd>
+## Following <kbd>170</kbd>
 
 <table>
   <tr>
@@ -1241,6 +1241,13 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/datawhalechina">
+        <img src="https://avatars.githubusercontent.com/u/46047812?v=4" width="50" />
+        <br />
+        datawhalechina
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/taohan10200">
         <img src="https://avatars.githubusercontent.com/u/46162738?v=4" width="50" />
         <br />
@@ -1261,6 +1268,7 @@
         chenchau
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jiupinjia">
         <img src="https://avatars.githubusercontent.com/u/51430557?v=4" width="50" />
@@ -1268,7 +1276,6 @@
         jiupinjia
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/yfzhang114">
         <img src="https://avatars.githubusercontent.com/u/53161950?v=4" width="50" />
@@ -1297,6 +1304,7 @@
         XIU2
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/DingXiaoH">
         <img src="https://avatars.githubusercontent.com/u/55726946?v=4" width="50" />
@@ -1304,7 +1312,6 @@
         DingXiaoH
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Zhongying-Deng">
         <img src="https://avatars.githubusercontent.com/u/58741831?v=4" width="50" />
@@ -1333,6 +1340,7 @@
         Busa-yifan
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/zzqinglei">
         <img src="https://avatars.githubusercontent.com/u/75826124?v=4" width="50" />
@@ -1340,7 +1348,6 @@
         zzqinglei
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/Wang-ML-Lab">
         <img src="https://avatars.githubusercontent.com/u/85480432?v=4" width="50" />
@@ -1368,8 +1375,6 @@
         <br />
         DAMO-DI-ML
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
   </tr>
 </table>
