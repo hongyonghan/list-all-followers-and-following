@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | hanhongyong | - | - | BeiJing | [@BeiJing](https://github.com/BeiJing) |
 
-## Followers <kbd>17</kbd>
+## Followers <kbd>16</kbd>
 
 <table>
   <tr>
@@ -23,13 +23,6 @@
         <img src="https://avatars.githubusercontent.com/u/107749581?v=4" width="50" />
         <br />
         XCBA
-      </a>
-    </td>
-    <td width="150" align="center">
-      <a href="https://github.com/webgently">
-        <img src="https://avatars.githubusercontent.com/u/105727142?v=4" width="50" />
-        <br />
-        webgently
       </a>
     </td>
     <td width="150" align="center">
@@ -53,7 +46,6 @@
         zpvkza17
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/shollowdream">
         <img src="https://avatars.githubusercontent.com/u/66812066?v=4" width="50" />
@@ -61,6 +53,7 @@
         shollowdream
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/wlyper">
         <img src="https://avatars.githubusercontent.com/u/62128180?v=4" width="50" />
@@ -89,7 +82,6 @@
         SpoonerCake
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/super5xy">
         <img src="https://avatars.githubusercontent.com/u/47842371?v=4" width="50" />
@@ -97,6 +89,7 @@
         super5xy
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jiangzheng77">
         <img src="https://avatars.githubusercontent.com/u/47706313?v=4" width="50" />
@@ -125,7 +118,6 @@
         teenyda
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/jackhanyuan">
         <img src="https://avatars.githubusercontent.com/u/24978318?v=4" width="50" />
@@ -133,12 +125,15 @@
         jackhanyuan
       </a>
     </td>
+  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/azoth07">
         <img src="https://avatars.githubusercontent.com/u/7674044?v=4" width="50" />
         <br />
         azoth07
       </a>
+    </td>
+    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
