@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | hanhongyong | - | - | BeiJing | [@BeiJing](https://github.com/BeiJing) |
 
-## Followers <kbd>16</kbd>
+## Followers <kbd>17</kbd>
 
 <table>
   <tr>
@@ -127,13 +127,18 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/david-kariuki">
+        <img src="https://avatars.githubusercontent.com/u/14153276?v=4" width="50" />
+        <br />
+        david-kariuki
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/azoth07">
         <img src="https://avatars.githubusercontent.com/u/7674044?v=4" width="50" />
         <br />
         azoth07
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
