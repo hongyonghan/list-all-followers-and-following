@@ -26,10 +26,10 @@
       </a>
     </td>
     <td width="150" align="center">
-      <a href="https://github.com/howie-wu">
+      <a href="https://github.com/how1ewu">
         <img src="https://avatars.githubusercontent.com/u/98788152?v=4" width="50" />
         <br />
-        howie-wu
+        how1ewu
       </a>
     </td>
     <td width="150" align="center">
@@ -149,7 +149,7 @@
   </tr>
 </table>
 
-## Following <kbd>173</kbd>
+## Following <kbd>174</kbd>
 
 <table>
   <tr>
@@ -1370,13 +1370,20 @@
       </a>
     </td>
     <td width="150" align="center">
+      <a href="https://github.com/yu-steven">
+        <img src="https://avatars.githubusercontent.com/u/78414278?v=4" width="50" />
+        <br />
+        yu-steven
+      </a>
+    </td>
+  </tr><tr>
+    <td width="150" align="center">
       <a href="https://github.com/Wang-ML-Lab">
         <img src="https://avatars.githubusercontent.com/u/85480432?v=4" width="50" />
         <br />
         Wang-ML-Lab
       </a>
     </td>
-  </tr><tr>
     <td width="150" align="center">
       <a href="https://github.com/adapt-python">
         <img src="https://avatars.githubusercontent.com/u/86614251?v=4" width="50" />
@@ -1397,8 +1404,6 @@
         <br />
         DAMO-DI-ML
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
