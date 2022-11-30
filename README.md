@@ -14,7 +14,7 @@
 | -- | -- | -- | -- | -- |
 | hanhongyong | hanhongyong | - | BeiJing | [@BeiJing](https://github.com/BeiJing) |
 
-## Followers <kbd>17</kbd>
+## Followers <kbd>18</kbd>
 
 <table>
   <tr>
@@ -127,6 +127,13 @@
     </td>
   </tr><tr>
     <td width="150" align="center">
+      <a href="https://github.com/gerly1980">
+        <img src="https://avatars.githubusercontent.com/u/16939894?v=4" width="50" />
+        <br />
+        gerly1980
+      </a>
+    </td>
+    <td width="150" align="center">
       <a href="https://github.com/david-kariuki">
         <img src="https://avatars.githubusercontent.com/u/14153276?v=4" width="50" />
         <br />
@@ -139,8 +146,6 @@
         <br />
         azoth07
       </a>
-    </td>
-    <td width="150" align="center">
     </td>
     <td width="150" align="center">
     </td>
